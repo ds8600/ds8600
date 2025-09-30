@@ -8,19 +8,16 @@
 
 ## 👋 About Me
 
-- 전직 **간호사**, 현재 **백엔드 개발자**를 목표로 학습 중입니다.  
-- **Linux · Git · Python · CS 기초**를 국비과정에서 집중적으로 공부하고 있습니다.  
-- 문제를 해결하며 성장하는 개발자를 지향합니다.  
+- 간호사로 일하다가 개발에 매력을 느껴 새롭게 도전 중입니다.  
+- 아직은 기초를 다지는 단계지만, 꾸준히 학습하고 기록하며 성장하고 있습니다.  
+- 완벽함보다는 하나씩 이해하고 쌓아가는 개발자가 되고 싶습니다.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Learning Journey
 
-| Category   | Tools |
-|------------|------------------------------|
-| Language   | Python · JavaScript · HTML · CSS |
-| Tools      | Linux · Git · VS Code |
-| Learning   | Django · MySQL |
+- 현재 익히는 중: Linux · Git  
+- 곧 도전할 예정: Python
 
 ---
 
