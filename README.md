@@ -16,8 +16,8 @@
 
 ## 🛠 Learning Journey
 
-- 현재 익히는 중: Linux · Git  
-- 곧 도전할 예정: Python
+- 현재 익히는 중: Linux · Git · Python
+- 곧 도전할 예정: Database
 
 ---
 
